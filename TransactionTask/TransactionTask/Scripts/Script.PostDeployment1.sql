@@ -26,3 +26,4 @@ INSERT INTO Log (OrigAcct, LogDatetime, RecAcct, Amount) VALUES
 (1, '11/05/2018', 2, $30);
 
 END;
+
